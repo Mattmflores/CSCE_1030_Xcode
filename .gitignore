@@ -33,3 +33,8 @@
 
 # Ignore macOS system files
 *.DS_Store
+
+# Ignore Xcode user data
+*.xcuserdatad
+*.xcuserdata
+*.xcuserstate
