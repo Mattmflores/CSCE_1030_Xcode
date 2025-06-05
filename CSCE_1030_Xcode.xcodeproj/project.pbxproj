@@ -79,6 +79,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		C9CEFEC82DF1645D002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		C9CEFED32DF17563002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		C9CEFEDE2DF187B2002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +117,9 @@
 		C95AC47C2DEE61C0007E9A2C /* Lab4A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4A"; sourceTree = "<absolute>"; };
 		C9CEFE8A2DEE708E002D8EEF /* Lab4B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4B"; sourceTree = "<absolute>"; };
 		C9CEFE952DEE790D002D8EEF /* Lab4C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4C"; sourceTree = "<absolute>"; };
+		C9CEFECA2DF1645D002D8EEF /* Lab5A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5A"; sourceTree = "<absolute>"; };
+		C9CEFED52DF17563002D8EEF /* Lab5B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5B"; sourceTree = "<absolute>"; };
+		C9CEFEE02DF187B2002D8EEF /* Lab5C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5C"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -192,6 +222,21 @@
 			path = Lab4;
 			sourceTree = "<group>";
 		};
+		C9CEFECB2DF1645D002D8EEF /* Lab5A */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Lab5A;
+			sourceTree = "<group>";
+		};
+		C9CEFED62DF17563002D8EEF /* Lab5B */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Lab5B;
+			sourceTree = "<group>";
+		};
+		C9CEFEE12DF187B2002D8EEF /* Lab5C */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Lab5C;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -251,6 +296,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C9CEFEC72DF1645D002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFED22DF17563002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFEDD2DF187B2002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -260,6 +326,9 @@
 				C95AC46F2DEA306F007E9A2C /* Lab2 */,
 				C95AC44C2DEA2DD4007E9A2C /* Lab3 */,
 				C9CEFEBD2DEE7941002D8EEF /* Lab4 */,
+				C9CEFECB2DF1645D002D8EEF /* Lab5A */,
+				C9CEFED62DF17563002D8EEF /* Lab5B */,
+				C9CEFEE12DF187B2002D8EEF /* Lab5C */,
 			);
 			sourceTree = "<group>";
 		};
@@ -425,6 +494,72 @@
 			productReference = C9CEFE952DEE790D002D8EEF /* Lab4C */;
 			productType = "com.apple.product-type.tool";
 		};
+		C9CEFEC92DF1645D002D8EEF /* Lab5A */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFECE2DF1645D002D8EEF /* Build configuration list for PBXNativeTarget "Lab5A" */;
+			buildPhases = (
+				C9CEFEC62DF1645D002D8EEF /* Sources */,
+				C9CEFEC72DF1645D002D8EEF /* Frameworks */,
+				C9CEFEC82DF1645D002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C9CEFECB2DF1645D002D8EEF /* Lab5A */,
+			);
+			name = Lab5A;
+			packageProductDependencies = (
+			);
+			productName = Lab5A;
+			productReference = C9CEFECA2DF1645D002D8EEF /* Lab5A */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFED42DF17563002D8EEF /* Lab5B */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFED92DF17563002D8EEF /* Build configuration list for PBXNativeTarget "Lab5B" */;
+			buildPhases = (
+				C9CEFED12DF17563002D8EEF /* Sources */,
+				C9CEFED22DF17563002D8EEF /* Frameworks */,
+				C9CEFED32DF17563002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C9CEFED62DF17563002D8EEF /* Lab5B */,
+			);
+			name = Lab5B;
+			packageProductDependencies = (
+			);
+			productName = Lab5B;
+			productReference = C9CEFED52DF17563002D8EEF /* Lab5B */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFEDF2DF187B2002D8EEF /* Lab5C */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFEE42DF187B2002D8EEF /* Build configuration list for PBXNativeTarget "Lab5C" */;
+			buildPhases = (
+				C9CEFEDC2DF187B2002D8EEF /* Sources */,
+				C9CEFEDD2DF187B2002D8EEF /* Frameworks */,
+				C9CEFEDE2DF187B2002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C9CEFEE12DF187B2002D8EEF /* Lab5C */,
+			);
+			name = Lab5C;
+			packageProductDependencies = (
+			);
+			productName = Lab5C;
+			productReference = C9CEFEE02DF187B2002D8EEF /* Lab5C */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -458,6 +593,15 @@
 					C9CEFE942DEE790D002D8EEF = {
 						CreatedOnToolsVersion = 16.3;
 					};
+					C9CEFEC92DF1645D002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					C9CEFED42DF17563002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					C9CEFEDF2DF187B2002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
 				};
 			};
 			buildConfigurationList = C95AC4212DEA2BC5007E9A2C /* Build configuration list for PBXProject "CSCE_1030_Xcode" */;
@@ -482,6 +626,9 @@
 				C95AC47B2DEE61C0007E9A2C /* Lab4A */,
 				C9CEFE892DEE708E002D8EEF /* Lab4B */,
 				C9CEFE942DEE790D002D8EEF /* Lab4C */,
+				C9CEFEC92DF1645D002D8EEF /* Lab5A */,
+				C9CEFED42DF17563002D8EEF /* Lab5B */,
+				C9CEFEDF2DF187B2002D8EEF /* Lab5C */,
 			);
 		};
 /* End PBXProject section */
@@ -537,6 +684,27 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		C9CEFE912DEE790D002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFEC62DF1645D002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFED12DF17563002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFEDC2DF187B2002D8EEF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -823,6 +991,66 @@
 			};
 			name = Release;
 		};
+		C9CEFECF2DF1645D002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFED02DF1645D002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C9CEFEDA2DF17563002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFEDB2DF17563002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C9CEFEE52DF187B2002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFEE62DF187B2002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -903,6 +1131,33 @@
 			buildConfigurations = (
 				C9CEFE9A2DEE790D002D8EEF /* Debug */,
 				C9CEFE9B2DEE790D002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFECE2DF1645D002D8EEF /* Build configuration list for PBXNativeTarget "Lab5A" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFECF2DF1645D002D8EEF /* Debug */,
+				C9CEFED02DF1645D002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFED92DF17563002D8EEF /* Build configuration list for PBXNativeTarget "Lab5B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFEDA2DF17563002D8EEF /* Debug */,
+				C9CEFEDB2DF17563002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFEE42DF187B2002D8EEF /* Build configuration list for PBXNativeTarget "Lab5C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFEE52DF187B2002D8EEF /* Debug */,
+				C9CEFEE62DF187B2002D8EEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
