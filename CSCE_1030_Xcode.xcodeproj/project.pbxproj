@@ -219,6 +219,66 @@
 			);
 			target = C9CEFE942DEE790D002D8EEF /* Lab4C */;
 		};
+		C9CEFF192DF86EE4002D8EEF /* Exceptions for "Lab5" folder in "Lab3A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab5A/main.cpp,
+				Lab5B/main.cpp,
+				Lab5C/main.cpp,
+			);
+			target = C95AC4252DEA2BC5007E9A2C /* Lab3A */;
+		};
+		C9CEFF1A2DF86EE4002D8EEF /* Exceptions for "Lab5" folder in "Lab5A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab5A/main.cpp,
+			);
+			target = C9CEFEC92DF1645D002D8EEF /* Lab5A */;
+		};
+		C9CEFF1E2DF86EEF002D8EEF /* Exceptions for "Lab5" folder in "Lab5B" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab5B/main.cpp,
+			);
+			target = C9CEFED42DF17563002D8EEF /* Lab5B */;
+		};
+		C9CEFF222DF86F03002D8EEF /* Exceptions for "Lab5" folder in "Lab5C" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab5C/main.cpp,
+			);
+			target = C9CEFEDF2DF187B2002D8EEF /* Lab5C */;
+		};
+		C9CEFF272DF86F1F002D8EEF /* Exceptions for "Lab6" folder in "Lab3A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab6A/main.cpp,
+				Lab6B/main.cpp,
+				Lab6C/main.cpp,
+			);
+			target = C95AC4252DEA2BC5007E9A2C /* Lab3A */;
+		};
+		C9CEFF282DF86F1F002D8EEF /* Exceptions for "Lab6" folder in "Lab6A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab6A/main.cpp,
+			);
+			target = C9CEFEEA2DF7A6E1002D8EEF /* Lab6A */;
+		};
+		C9CEFF2C2DF86F27002D8EEF /* Exceptions for "Lab6" folder in "Lab6B" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab6B/main.cpp,
+			);
+			target = C9CEFEF52DF8395B002D8EEF /* Lab6B */;
+		};
+		C9CEFF302DF86F2B002D8EEF /* Exceptions for "Lab6" folder in "Lab6C" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab6C/main.cpp,
+			);
+			target = C9CEFF0D2DF84B25002D8EEF /* Lab6C */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -252,34 +312,26 @@
 			path = Lab4;
 			sourceTree = "<group>";
 		};
-		C9CEFECB2DF1645D002D8EEF /* Lab5A */ = {
+		C9CEFF152DF86ECA002D8EEF /* Lab5 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab5A;
+			exceptions = (
+				C9CEFF192DF86EE4002D8EEF /* Exceptions for "Lab5" folder in "Lab3A" target */,
+				C9CEFF1A2DF86EE4002D8EEF /* Exceptions for "Lab5" folder in "Lab5A" target */,
+				C9CEFF1E2DF86EEF002D8EEF /* Exceptions for "Lab5" folder in "Lab5B" target */,
+				C9CEFF222DF86F03002D8EEF /* Exceptions for "Lab5" folder in "Lab5C" target */,
+			);
+			path = Lab5;
 			sourceTree = "<group>";
 		};
-		C9CEFED62DF17563002D8EEF /* Lab5B */ = {
+		C9CEFF232DF86F11002D8EEF /* Lab6 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab5B;
-			sourceTree = "<group>";
-		};
-		C9CEFEE12DF187B2002D8EEF /* Lab5C */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab5C;
-			sourceTree = "<group>";
-		};
-		C9CEFEEC2DF7A6E1002D8EEF /* Lab6A */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab6A;
-			sourceTree = "<group>";
-		};
-		C9CEFEF72DF8395B002D8EEF /* Lab6B */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab6B;
-			sourceTree = "<group>";
-		};
-		C9CEFF0F2DF84B25002D8EEF /* Lab6C */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lab6C;
+			exceptions = (
+				C9CEFF272DF86F1F002D8EEF /* Exceptions for "Lab6" folder in "Lab3A" target */,
+				C9CEFF282DF86F1F002D8EEF /* Exceptions for "Lab6" folder in "Lab6A" target */,
+				C9CEFF2C2DF86F27002D8EEF /* Exceptions for "Lab6" folder in "Lab6B" target */,
+				C9CEFF302DF86F2B002D8EEF /* Exceptions for "Lab6" folder in "Lab6C" target */,
+			);
+			path = Lab6;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -392,12 +444,8 @@
 				C95AC46F2DEA306F007E9A2C /* Lab2 */,
 				C95AC44C2DEA2DD4007E9A2C /* Lab3 */,
 				C9CEFEBD2DEE7941002D8EEF /* Lab4 */,
-				C9CEFECB2DF1645D002D8EEF /* Lab5A */,
-				C9CEFED62DF17563002D8EEF /* Lab5B */,
-				C9CEFEE12DF187B2002D8EEF /* Lab5C */,
-				C9CEFEEC2DF7A6E1002D8EEF /* Lab6A */,
-				C9CEFEF72DF8395B002D8EEF /* Lab6B */,
-				C9CEFF0F2DF84B25002D8EEF /* Lab6C */,
+				C9CEFF152DF86ECA002D8EEF /* Lab5 */,
+				C9CEFF232DF86F11002D8EEF /* Lab6 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -419,6 +467,8 @@
 			fileSystemSynchronizedGroups = (
 				C95AC44C2DEA2DD4007E9A2C /* Lab3 */,
 				C9CEFEBD2DEE7941002D8EEF /* Lab4 */,
+				C9CEFF152DF86ECA002D8EEF /* Lab5 */,
+				C9CEFF232DF86F11002D8EEF /* Lab6 */,
 			);
 			name = Lab3A;
 			packageProductDependencies = (
@@ -575,9 +625,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				C9CEFECB2DF1645D002D8EEF /* Lab5A */,
-			);
 			name = Lab5A;
 			packageProductDependencies = (
 			);
@@ -596,9 +643,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				C9CEFED62DF17563002D8EEF /* Lab5B */,
 			);
 			name = Lab5B;
 			packageProductDependencies = (
@@ -619,9 +663,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				C9CEFEE12DF187B2002D8EEF /* Lab5C */,
-			);
 			name = Lab5C;
 			packageProductDependencies = (
 			);
@@ -640,9 +681,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				C9CEFEEC2DF7A6E1002D8EEF /* Lab6A */,
 			);
 			name = Lab6A;
 			packageProductDependencies = (
@@ -663,9 +701,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				C9CEFEF72DF8395B002D8EEF /* Lab6B */,
-			);
 			name = Lab6B;
 			packageProductDependencies = (
 			);
@@ -684,9 +719,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				C9CEFF0F2DF84B25002D8EEF /* Lab6C */,
 			);
 			name = Lab6C;
 			packageProductDependencies = (
