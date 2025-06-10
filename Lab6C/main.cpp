@@ -2,7 +2,8 @@
 Author: Matthew Flores (matthewflores10@my.unt.edu)
 Date: 06-09-2025
 Instructor: Dr. Amar M. Maharjan
-Description: Computes simple arithmetic based on two user integer inputs
+Description: Displays number of vowels, consonants, word count, and total
+ ASCII value based on user inputted string
 */
 
 #include <iostream>
