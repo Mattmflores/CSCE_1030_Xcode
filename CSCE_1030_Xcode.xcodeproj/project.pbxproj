@@ -151,25 +151,65 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		C9CEFF542E079129002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		C9CEFFAF2E0B4389002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		C9CEFFBA2E0B45DC002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		C9CEFFC52E0B505E002D8EEF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		C9CEFEFD2DF84B19002D8EEF /* Lab3A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3A"; sourceTree = "<absolute>"; };
-		C9CEFEFE2DF84B19002D8EEF /* Lab3B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3B"; sourceTree = "<absolute>"; };
-		C9CEFEFF2DF84B19002D8EEF /* Lab3C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3C"; sourceTree = "<absolute>"; };
-		C9CEFF002DF84B19002D8EEF /* Lab2A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab2A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab2A"; sourceTree = "<absolute>"; };
-		C9CEFF012DF84B19002D8EEF /* Lab2B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab2B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab2B"; sourceTree = "<absolute>"; };
-		C9CEFF022DF84B19002D8EEF /* Lab4A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4A"; sourceTree = "<absolute>"; };
-		C9CEFF032DF84B19002D8EEF /* Lab4B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4B"; sourceTree = "<absolute>"; };
-		C9CEFF042DF84B19002D8EEF /* Lab4C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4C"; sourceTree = "<absolute>"; };
-		C9CEFF052DF84B19002D8EEF /* Lab5A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5A"; sourceTree = "<absolute>"; };
-		C9CEFF062DF84B19002D8EEF /* Lab5B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5B"; sourceTree = "<absolute>"; };
-		C9CEFF072DF84B19002D8EEF /* Lab5C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5C"; sourceTree = "<absolute>"; };
-		C9CEFF082DF84B19002D8EEF /* Lab6A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6A"; sourceTree = "<absolute>"; };
-		C9CEFF092DF84B19002D8EEF /* Lab6B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6B"; sourceTree = "<absolute>"; };
-		C9CEFF0E2DF84B25002D8EEF /* Lab6C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6C"; sourceTree = "<absolute>"; };
-		C9CEFF352DFCA6B1002D8EEF /* Lab7A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab7A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab7A"; sourceTree = "<absolute>"; };
-		C9CEFF402DFCC55B002D8EEF /* Lab7B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab7B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab7B"; sourceTree = "<absolute>"; };
+		C9CEFF5D2E0B4355002D8EEF /* Lab2A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab2A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab2A"; sourceTree = "<absolute>"; };
+		C9CEFF5E2E0B4355002D8EEF /* Lab2B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab2B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab2B"; sourceTree = "<absolute>"; };
+		C9CEFF5F2E0B4355002D8EEF /* Lab3A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3A"; sourceTree = "<absolute>"; };
+		C9CEFF602E0B4355002D8EEF /* Lab4A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4A"; sourceTree = "<absolute>"; };
+		C9CEFF612E0B4355002D8EEF /* Lab4B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4B"; sourceTree = "<absolute>"; };
+		C9CEFF622E0B4355002D8EEF /* Lab4C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab4C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab4C"; sourceTree = "<absolute>"; };
+		C9CEFF632E0B4355002D8EEF /* Lab5A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5A"; sourceTree = "<absolute>"; };
+		C9CEFF642E0B4355002D8EEF /* Lab5B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5B"; sourceTree = "<absolute>"; };
+		C9CEFF652E0B4355002D8EEF /* Lab5C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab5C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab5C"; sourceTree = "<absolute>"; };
+		C9CEFF662E0B4355002D8EEF /* Lab6A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6A"; sourceTree = "<absolute>"; };
+		C9CEFF672E0B4355002D8EEF /* Lab6B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6B"; sourceTree = "<absolute>"; };
+		C9CEFF682E0B4355002D8EEF /* Lab6C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab6C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab6C"; sourceTree = "<absolute>"; };
+		C9CEFF692E0B4355002D8EEF /* Lab3B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3B"; sourceTree = "<absolute>"; };
+		C9CEFF6A2E0B4355002D8EEF /* Lab3C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab3C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab3C"; sourceTree = "<absolute>"; };
+		C9CEFF6B2E0B4355002D8EEF /* Lab7A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab7A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab7A"; sourceTree = "<absolute>"; };
+		C9CEFF6C2E0B4355002D8EEF /* Lab7B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab7B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab7B"; sourceTree = "<absolute>"; };
+		C9CEFF6D2E0B4355002D8EEF /* Project1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Project1; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Project1"; sourceTree = "<absolute>"; };
+		C9CEFFB12E0B4389002D8EEF /* Lab8A */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab8A; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab8A"; sourceTree = "<absolute>"; };
+		C9CEFFBC2E0B45DC002D8EEF /* Lab8B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab8B; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab8B"; sourceTree = "<absolute>"; };
+		C9CEFFC72E0B505E002D8EEF /* Lab8C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Lab8C; path = "/Users/matt/Desktop/CSCE 1030 Labs/CSCE_1030_Xcode/build/Debug/Lab8C"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -313,6 +353,36 @@
 			);
 			target = C9CEFF3F2DFCC55B002D8EEF /* Lab7B */;
 		};
+		C9CEFFD22E0B5733002D8EEF /* Exceptions for "Lab8" folder in "Lab3A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab8A/main.cpp,
+				Lab8B/main.cpp,
+				Lab8C/main.cpp,
+			);
+			target = C95AC4252DEA2BC5007E9A2C /* Lab3A */;
+		};
+		C9CEFFD32E0B5733002D8EEF /* Exceptions for "Lab8" folder in "Lab8A" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab8A/main.cpp,
+			);
+			target = C9CEFFB02E0B4389002D8EEF /* Lab8A */;
+		};
+		C9CEFFD72E0B573C002D8EEF /* Exceptions for "Lab8" folder in "Lab8B" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab8B/main.cpp,
+			);
+			target = C9CEFFBB2E0B45DC002D8EEF /* Lab8B */;
+		};
+		C9CEFFDB2E0B5741002D8EEF /* Exceptions for "Lab8" folder in "Lab8C" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Lab8C/main.cpp,
+			);
+			target = C9CEFFC62E0B505E002D8EEF /* Lab8C */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -375,6 +445,22 @@
 				C9CEFF512DFCC587002D8EEF /* Exceptions for "Lab7" folder in "Lab7B" target */,
 			);
 			path = Lab7;
+			sourceTree = "<group>";
+		};
+		C9CEFF572E079129002D8EEF /* Project1 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Project1;
+			sourceTree = "<group>";
+		};
+		C9CEFFCE2E0B5722002D8EEF /* Lab8 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C9CEFFD22E0B5733002D8EEF /* Exceptions for "Lab8" folder in "Lab3A" target */,
+				C9CEFFD32E0B5733002D8EEF /* Exceptions for "Lab8" folder in "Lab8A" target */,
+				C9CEFFD72E0B573C002D8EEF /* Exceptions for "Lab8" folder in "Lab8B" target */,
+				C9CEFFDB2E0B5741002D8EEF /* Exceptions for "Lab8" folder in "Lab8C" target */,
+			);
+			path = Lab8;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -492,6 +578,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C9CEFF532E079129002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFAE2E0B4389002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFB92E0B45DC002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFC42E0B505E002D8EEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -504,6 +618,8 @@
 				C9CEFF152DF86ECA002D8EEF /* Lab5 */,
 				C9CEFF232DF86F11002D8EEF /* Lab6 */,
 				C9CEFF492DFCC57E002D8EEF /* Lab7 */,
+				C9CEFFCE2E0B5722002D8EEF /* Lab8 */,
+				C9CEFF572E079129002D8EEF /* Project1 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -527,12 +643,13 @@
 				C9CEFEBD2DEE7941002D8EEF /* Lab4 */,
 				C9CEFF152DF86ECA002D8EEF /* Lab5 */,
 				C9CEFF232DF86F11002D8EEF /* Lab6 */,
+				C9CEFFCE2E0B5722002D8EEF /* Lab8 */,
 			);
 			name = Lab3A;
 			packageProductDependencies = (
 			);
 			productName = CSCE_1030_Xcode;
-			productReference = C9CEFEFD2DF84B19002D8EEF /* Lab3A */;
+			productReference = C9CEFF5F2E0B4355002D8EEF /* Lab3A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C95AC4332DEA2C6C007E9A2C /* Lab3B */ = {
@@ -551,7 +668,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab3B;
-			productReference = C9CEFEFE2DF84B19002D8EEF /* Lab3B */;
+			productReference = C9CEFF692E0B4355002D8EEF /* Lab3B */;
 			productType = "com.apple.product-type.tool";
 		};
 		C95AC43E2DEA2CCC007E9A2C /* Lab3C */ = {
@@ -570,7 +687,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab3C;
-			productReference = C9CEFEFF2DF84B19002D8EEF /* Lab3C */;
+			productReference = C9CEFF6A2E0B4355002D8EEF /* Lab3C */;
 			productType = "com.apple.product-type.tool";
 		};
 		C95AC45C2DEA3022007E9A2C /* Lab2A */ = {
@@ -592,7 +709,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab2A;
-			productReference = C9CEFF002DF84B19002D8EEF /* Lab2A */;
+			productReference = C9CEFF5D2E0B4355002D8EEF /* Lab2A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C95AC4672DEA3058007E9A2C /* Lab2B */ = {
@@ -611,7 +728,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab2B;
-			productReference = C9CEFF012DF84B19002D8EEF /* Lab2B */;
+			productReference = C9CEFF5E2E0B4355002D8EEF /* Lab2B */;
 			productType = "com.apple.product-type.tool";
 		};
 		C95AC47B2DEE61C0007E9A2C /* Lab4A */ = {
@@ -630,7 +747,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab4A;
-			productReference = C9CEFF022DF84B19002D8EEF /* Lab4A */;
+			productReference = C9CEFF602E0B4355002D8EEF /* Lab4A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFE892DEE708E002D8EEF /* Lab4B */ = {
@@ -649,7 +766,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab4B;
-			productReference = C9CEFF032DF84B19002D8EEF /* Lab4B */;
+			productReference = C9CEFF612E0B4355002D8EEF /* Lab4B */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFE942DEE790D002D8EEF /* Lab4C */ = {
@@ -668,7 +785,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab4C;
-			productReference = C9CEFF042DF84B19002D8EEF /* Lab4C */;
+			productReference = C9CEFF622E0B4355002D8EEF /* Lab4C */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFEC92DF1645D002D8EEF /* Lab5A */ = {
@@ -687,7 +804,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab5A;
-			productReference = C9CEFF052DF84B19002D8EEF /* Lab5A */;
+			productReference = C9CEFF632E0B4355002D8EEF /* Lab5A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFED42DF17563002D8EEF /* Lab5B */ = {
@@ -706,7 +823,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab5B;
-			productReference = C9CEFF062DF84B19002D8EEF /* Lab5B */;
+			productReference = C9CEFF642E0B4355002D8EEF /* Lab5B */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFEDF2DF187B2002D8EEF /* Lab5C */ = {
@@ -725,7 +842,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab5C;
-			productReference = C9CEFF072DF84B19002D8EEF /* Lab5C */;
+			productReference = C9CEFF652E0B4355002D8EEF /* Lab5C */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFEEA2DF7A6E1002D8EEF /* Lab6A */ = {
@@ -744,7 +861,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab6A;
-			productReference = C9CEFF082DF84B19002D8EEF /* Lab6A */;
+			productReference = C9CEFF662E0B4355002D8EEF /* Lab6A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFEF52DF8395B002D8EEF /* Lab6B */ = {
@@ -763,7 +880,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab6B;
-			productReference = C9CEFF092DF84B19002D8EEF /* Lab6B */;
+			productReference = C9CEFF672E0B4355002D8EEF /* Lab6B */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFF0D2DF84B25002D8EEF /* Lab6C */ = {
@@ -782,7 +899,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab6C;
-			productReference = C9CEFF0E2DF84B25002D8EEF /* Lab6C */;
+			productReference = C9CEFF682E0B4355002D8EEF /* Lab6C */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFF342DFCA6B1002D8EEF /* Lab7A */ = {
@@ -804,7 +921,7 @@
 			packageProductDependencies = (
 			);
 			productName = Lab7A;
-			productReference = C9CEFF352DFCA6B1002D8EEF /* Lab7A */;
+			productReference = C9CEFF6B2E0B4355002D8EEF /* Lab7A */;
 			productType = "com.apple.product-type.tool";
 		};
 		C9CEFF3F2DFCC55B002D8EEF /* Lab7B */ = {
@@ -823,7 +940,86 @@
 			packageProductDependencies = (
 			);
 			productName = Lab7B;
-			productReference = C9CEFF402DFCC55B002D8EEF /* Lab7B */;
+			productReference = C9CEFF6C2E0B4355002D8EEF /* Lab7B */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFF552E079129002D8EEF /* Project1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFF5A2E079129002D8EEF /* Build configuration list for PBXNativeTarget "Project1" */;
+			buildPhases = (
+				C9CEFF522E079129002D8EEF /* Sources */,
+				C9CEFF532E079129002D8EEF /* Frameworks */,
+				C9CEFF542E079129002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C9CEFF572E079129002D8EEF /* Project1 */,
+			);
+			name = Project1;
+			packageProductDependencies = (
+			);
+			productName = Project1;
+			productReference = C9CEFF6D2E0B4355002D8EEF /* Project1 */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFFB02E0B4389002D8EEF /* Lab8A */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFFB52E0B4389002D8EEF /* Build configuration list for PBXNativeTarget "Lab8A" */;
+			buildPhases = (
+				C9CEFFAD2E0B4389002D8EEF /* Sources */,
+				C9CEFFAE2E0B4389002D8EEF /* Frameworks */,
+				C9CEFFAF2E0B4389002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Lab8A;
+			packageProductDependencies = (
+			);
+			productName = Lab8A;
+			productReference = C9CEFFB12E0B4389002D8EEF /* Lab8A */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFFBB2E0B45DC002D8EEF /* Lab8B */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFFC02E0B45DC002D8EEF /* Build configuration list for PBXNativeTarget "Lab8B" */;
+			buildPhases = (
+				C9CEFFB82E0B45DC002D8EEF /* Sources */,
+				C9CEFFB92E0B45DC002D8EEF /* Frameworks */,
+				C9CEFFBA2E0B45DC002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Lab8B;
+			packageProductDependencies = (
+			);
+			productName = Lab8B;
+			productReference = C9CEFFBC2E0B45DC002D8EEF /* Lab8B */;
+			productType = "com.apple.product-type.tool";
+		};
+		C9CEFFC62E0B505E002D8EEF /* Lab8C */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C9CEFFCB2E0B505E002D8EEF /* Build configuration list for PBXNativeTarget "Lab8C" */;
+			buildPhases = (
+				C9CEFFC32E0B505E002D8EEF /* Sources */,
+				C9CEFFC42E0B505E002D8EEF /* Frameworks */,
+				C9CEFFC52E0B505E002D8EEF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Lab8C;
+			packageProductDependencies = (
+			);
+			productName = Lab8C;
+			productReference = C9CEFFC72E0B505E002D8EEF /* Lab8C */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -883,6 +1079,18 @@
 					C9CEFF3F2DFCC55B002D8EEF = {
 						CreatedOnToolsVersion = 16.3;
 					};
+					C9CEFF552E079129002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					C9CEFFB02E0B4389002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					C9CEFFBB2E0B45DC002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					C9CEFFC62E0B505E002D8EEF = {
+						CreatedOnToolsVersion = 16.3;
+					};
 				};
 			};
 			buildConfigurationList = C95AC4212DEA2BC5007E9A2C /* Build configuration list for PBXProject "CSCE_1030_Xcode" */;
@@ -915,6 +1123,10 @@
 				C9CEFF0D2DF84B25002D8EEF /* Lab6C */,
 				C9CEFF342DFCA6B1002D8EEF /* Lab7A */,
 				C9CEFF3F2DFCC55B002D8EEF /* Lab7B */,
+				C9CEFF552E079129002D8EEF /* Project1 */,
+				C9CEFFB02E0B4389002D8EEF /* Lab8A */,
+				C9CEFFBB2E0B45DC002D8EEF /* Lab8B */,
+				C9CEFFC62E0B505E002D8EEF /* Lab8C */,
 			);
 		};
 /* End PBXProject section */
@@ -1026,6 +1238,34 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		C9CEFF3C2DFCC55B002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFF522E079129002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFAD2E0B4389002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFB82E0B45DC002D8EEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9CEFFC32E0B505E002D8EEF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1472,6 +1712,86 @@
 			};
 			name = Release;
 		};
+		C9CEFF5B2E079129002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFF5C2E079129002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C9CEFFB62E0B4389002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFFB72E0B4389002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C9CEFFC12E0B45DC002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFFC22E0B45DC002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		C9CEFFCC2E0B505E002D8EEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C9CEFFCD2E0B505E002D8EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = J562JMPV98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1624,6 +1944,42 @@
 			buildConfigurations = (
 				C9CEFF452DFCC55B002D8EEF /* Debug */,
 				C9CEFF462DFCC55B002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFF5A2E079129002D8EEF /* Build configuration list for PBXNativeTarget "Project1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFF5B2E079129002D8EEF /* Debug */,
+				C9CEFF5C2E079129002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFFB52E0B4389002D8EEF /* Build configuration list for PBXNativeTarget "Lab8A" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFFB62E0B4389002D8EEF /* Debug */,
+				C9CEFFB72E0B4389002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFFC02E0B45DC002D8EEF /* Build configuration list for PBXNativeTarget "Lab8B" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFFC12E0B45DC002D8EEF /* Debug */,
+				C9CEFFC22E0B45DC002D8EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C9CEFFCB2E0B505E002D8EEF /* Build configuration list for PBXNativeTarget "Lab8C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C9CEFFCC2E0B505E002D8EEF /* Debug */,
+				C9CEFFCD2E0B505E002D8EEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
