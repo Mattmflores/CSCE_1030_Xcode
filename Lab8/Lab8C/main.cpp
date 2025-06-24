@@ -2,7 +2,7 @@
 Author: Matthew Flores (matthewflores10@my.unt.edu)
 Date: 06-24-2025
 Instructor: Dr. Amar M. Maharjan
-Description: Outputs int values above average based on user inputs
+Description: Sorts alpha chars using for loops
 */
 
 #include <iostream>
